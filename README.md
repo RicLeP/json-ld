@@ -10,6 +10,8 @@
 
 Extremely simple JSON-LD generator.
 
+
+
 ## Installation
 
 - [JSON-LD Generator on Packagist](https://packagist.org/packages/torann/json-ld)
